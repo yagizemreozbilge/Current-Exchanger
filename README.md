@@ -95,6 +95,8 @@ This project is a simple currency converter web application built with Flask. Th
 
 - ![image](https://github.com/user-attachments/assets/eca52787-673f-4b02-959d-bab8b4b6aa60)
 - ![Screenshot 2024-08-18 180802](https://github.com/user-attachments/assets/8ca3fb1a-f64d-4cf4-812e-0bebbe7929d9)
+- Windows coverage:%95
+- Linux coverage: %95
 
 
 
