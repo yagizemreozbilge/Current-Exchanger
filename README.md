@@ -93,6 +93,11 @@ This project is a simple currency converter web application built with Flask. Th
 - **test_app.py**: Contains unit tests for the application.
 - **templates/index.html**: HTML template used for rendering the frontend (included in `app.py` as a string).
 
+- ![image](https://github.com/user-attachments/assets/eca52787-673f-4b02-959d-bab8b4b6aa60)
+- ![Screenshot 2024-08-18 180802](https://github.com/user-attachments/assets/8ca3fb1a-f64d-4cf4-812e-0bebbe7929d9)
+
+
+
 ## Notes
 
 - Ensure that you have the necessary permissions and environment settings to run the application and tests.
